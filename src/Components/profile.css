@@ -1,0 +1,11 @@
+.login{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+    
+     
+}
+.btn{
+    gap: 5px;
+}
